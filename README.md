@@ -1,3 +1,3 @@
 # widget
 
-notion countdown widgit: [demo](https://professordeng.com/widget/dhm.html)
+notion countdown widget: [demo](https://professordeng.com/widget/dhm.html)
